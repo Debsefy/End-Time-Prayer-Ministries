@@ -310,15 +310,13 @@ align-items: center;
   .about-content{
    width: 100%;
   }
-  .about-section{
-  
-    padding:0;
-  
-  
+  .about-section{  
+    padding:2px;
   }
-
-  .about-content{
-   
+  .about-content p{
+    font-size: 13px;
+    font-weight: 200;
+    padding: 5px;
   }
 }
 
@@ -520,6 +518,7 @@ padding: 22px;
    }
    .description {
     line-height: 1.4;
+   
   }
   .sermon-content h2 {
 
