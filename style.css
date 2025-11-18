@@ -45,6 +45,7 @@ ul li{
 
 /* Navbar desktop */
 .navbar ul {
+  margin-right: 50px;
   list-style: none;
   display: flex;
   gap: 20px;
@@ -76,12 +77,10 @@ ul li{
 
 /* Mobile styles */
 @media (max-width: 768px) {
-  .second-header{
-    width: 95%;
-  }
+  
   .hamburger {
     display: flex;
-    margin-right: 34px;
+    margin-right: 50px;
   }
 
   .navbar {
